@@ -1,0 +1,96 @@
+{
+  "name": "ecommerce-store",
+  "version": "1.0.1",
+  "private": true,
+  "author": {
+    "name": "Sanidhya Kumar Verma",
+    "email": "vipulrohit127@gmail.com",
+    "url": "https://github.com/Vipul-kumar18"
+  },
+  "description": "A Next.js 14 E-Commerce Store Application.",
+  "keywords": [
+    "reactjs",
+    "nextjs",
+    "vercel",
+    "react",
+    "store",
+    "ecommerce",
+    "shadcn",
+    "shadcn-ui",
+    "radix-ui",
+    "cn",
+    "clsx",
+    "zustand",
+    "query-string",
+    "react-hot-toast",
+    "headlessui",
+    "sql",
+    "mysql",
+    "prisma",
+    "lucide-react",
+    "next-pwa",
+    "postcss",
+    "prettier",
+    "react-dom",
+    "tailwindcss",
+    "tailwindcss-animate",
+    "ui/ux",
+    "js",
+    "javascript",
+    "typescript",
+    "eslint",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vipul-kumar18/ecommerce-admin.git"
+  },
+  "homepage": "https://github.com/sanidhyy/ecommerce-nextjs#readme",
+  "bugs": {
+    "url": "https://github.com/sanidhyy/ecommerce-nextjs/issues",
+    "email": "sanidhya.verma12345@gmail.com"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "axios": "^1.6.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.292.0",
+    "next": "14.0.1",
+    "next-pwa": "^5.6.0",
+    "query-string": "^8.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "tailwind-merge": "^2.0.0",
+    "zustand": "^4.4.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sanidhy"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/sanidhy"
+    }
+  ]
+}
